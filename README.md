@@ -24,6 +24,8 @@ The API surface is deliberately minimal, providing only a small set of core meth
 
 Because it targets stock Python (v3), it works out of the box on most Linux distributions without additional dependencies.
 
+tinyFIX was developed as part of testing efforts for llfix ( https://www.llfix.net ).
+
 <a name="installation"></a>
 ## Installation
 
